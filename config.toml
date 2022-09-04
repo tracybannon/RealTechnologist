@@ -92,9 +92,6 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "Books"
   href =  "/books/"
  [[params.addtional_menus]]
-  title =  "Podcasts"
-  href =  "/podcasts/"
- [[params.addtional_menus]]
   title =  "About"
   href =  "/about/"
  [[params.addtional_menus]]
