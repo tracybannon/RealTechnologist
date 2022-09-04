@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Trac Bannon</title>
+    <link>/tags/devops/</link>
+    <description>Recent content in DevOps on Trac Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcast Series:On the Road to DevHops</title>
+      <link>/post/ontheroadtodevhops/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ontheroadtodevhops/</guid>
+      <description>Let&amp;rsquo;s just chat!
+In this video series, Trac Bannon and Bryan Finster belly up to the bar and have an honest dialog about DevOps, Software Engineering, and delivering value. These two spar, disagree, and even invite few guests when they need new punching bags (just kidding). From being a “SADMF” to Culture to debates on the meaning of Autonomy, the content is relevant and unedited. Trac and Bryan even add an occasional guest to spice up the mix!</description>
+    </item>
+    
+  </channel>
+</rss>

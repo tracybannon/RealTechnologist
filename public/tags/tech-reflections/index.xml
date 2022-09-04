@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Reflections on Trac Bannon</title>
+    <link>/tags/tech-reflections/</link>
+    <description>Recent content in Tech Reflections on Trac Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tech-reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Year Of Change For This Software Architect</title>
+      <link>/post/2020-09-28-a-year-of-change/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-28-a-year-of-change/</guid>
+      <description>Tech Reflections When I started receiving congratulations messages on my work anniversary, it struck me just how fast the last 525,600 minutes have passed. So much has changed, and yet much remains the same.
+What has changed? After nearly 13 years, I left Deloitte Consulting, LLP to join the MITRE Corporation; I had honestly never thought that I would leave Deloitte. While I miss my friends and colleagues @ Uncle D’s, I’ve gained anew with MITRE.</description>
+    </item>
+    
+  </channel>
+</rss>

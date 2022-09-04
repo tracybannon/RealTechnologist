@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trac Bannon</title>
+    <link>/</link>
+    <description>Recent content on Trac Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Sep 2022 19:29:09 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/contact/contact/</link>
+      <pubDate>Sat, 03 Sep 2022 19:29:09 -0400</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description>Name* Email* Subject* Message Send </description>
+    </item>
+    
+    <item>
+      <title>Life After WordPress</title>
+      <link>/post/2022-09-02-newtb1/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-09-02-newtb1/</guid>
+      <description>“This is the beginning and the best is yet to come! ”
+Time to simplify! Time to drink my own champagne. I don&amp;rsquo;t need someone hosting my website or managing my content. I am committed to providing by guidance as code and using Git to managed my espressions with y&amp;rsquo;all.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Series:On the Road to DevHops</title>
+      <link>/post/ontheroadtodevhops/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ontheroadtodevhops/</guid>
+      <description>Let&amp;rsquo;s just chat!
+In this video series, Trac Bannon and Bryan Finster belly up to the bar and have an honest dialog about DevOps, Software Engineering, and delivering value. These two spar, disagree, and even invite few guests when they need new punching bags (just kidding). From being a “SADMF” to Culture to debates on the meaning of Autonomy, the content is relevant and unedited. Trac and Bryan even add an occasional guest to spice up the mix!</description>
+    </item>
+    
+    <item>
+      <title>Burlap or Tapestry? Educational Diversity</title>
+      <link>/post/2022-01-13-burlap-or-tapestry/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-01-13-burlap-or-tapestry/</guid>
+      <description>My personal journey has taught me the absolute value in diversity; our many varied paths provide a broad set of experiences transforming the fabric of our creative problem solving from burlap to a rich tapestry. With my mental map in mind, how do you think I responded to this question posed to me a few days ago: “I see your undergraduate degree is a BA, why would I listen to you about anything related to software?</description>
+    </item>
+    
+    <item>
+      <title>A Year Of Change For This Software Architect</title>
+      <link>/post/2020-09-28-a-year-of-change/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-28-a-year-of-change/</guid>
+      <description>Tech Reflections When I started receiving congratulations messages on my work anniversary, it struck me just how fast the last 525,600 minutes have passed. So much has changed, and yet much remains the same.
+What has changed? After nearly 13 years, I left Deloitte Consulting, LLP to join the MITRE Corporation; I had honestly never thought that I would leave Deloitte. While I miss my friends and colleagues @ Uncle D’s, I’ve gained anew with MITRE.</description>
+    </item>
+    
+    <item>
+      <title>Clean White Theme for Hugo</title>
+      <link>/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme.
+It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme.
+These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me Tracy “Trac” Bannon
+/trās/
+Trac Bannon is a real technologist and tech evangelist. Her focus is the human side of software architecture.
+Currently, Trac is a Senior Principal for the works as a senior engineer at The MITRE Corporation and spends her days solving problems for a safer world.
+While she is free, she likes writing technical blog posts, biking, gardening, and traveling.
+Feel free to connect Trac at Github and Linkedin, leave your thoughts in his blog or share your ideas by writing an email.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/</guid>
+      <description>Books ya gotta check out!! Revinventing Cybersecurity is the first book of its kind written entirely by folks who gender-identify as women and non-binary.
+Publications Title Type Publisher Link Distributed Tracing with Jaeger, Kubernetes, and Istio Live Project Manning 30% off </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speaking/</guid>
+      <description>Item #1 Item #2 </description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
