@@ -1,0 +1,23 @@
+{
+  "name": "realtechnologist",
+  "version": "1.0.0",
+  "description": "This is the source code for my personal website: tracybannon.tech",
+  "main": "index.js",
+  "scripts": {
+    "index": "hugo-lunr",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracybannon/RealTechnologist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracybannon/RealTechnologist/issues"
+  },
+  "homepage": "https://github.com/tracybannon/RealTechnologist#readme",
+  "dependencies": {
+    "hugo-lunr": "^0.0.4"
+  }
+}

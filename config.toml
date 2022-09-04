@@ -1,0 +1,119 @@
+baseurl = ""
+title = "Trac Bannon"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = false
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+[params]
+  header_image = "img/BanyonTree.jfif"
+  SEOTitle = "Trac Bannon DevSecOps"
+  description = "My New WebSite"
+  keyword = "DevSecOps, DevOps, Software Engineering, Software Architecture, Digital Transformation, Cloud Native, Mentor, Speaker, CICD, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer, DataOps, Design Patterns"
+  slogan = "It's the humans that matter..."
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Resource Not Found, DANG! :("
+  omit_categories = false
+
+  # leancloud storage for page view counter
+  page_view_conter = false 
+  leancloud_app_id = ""
+  leancloud_app_key = ""
+
+  # algolia site search
+  algolia_search = true
+  algolia_appId = ""
+  algolia_indexName = ""
+  algolia_apiKey = ""
+
+  # Sidebar settings
+  sidebar_about_description = "Real Technologist, Human-Focused Software Architect, Change Agent, Tech Evangelist,Mentor, Speaker, Author, Ambassador, Engineer"
+  sidebar_avatar = "img/Bannon_SideHeadShot.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  # Baidu Analytics
+  ba_track_id = ""
+  
+  # We need a proxy to access Disqus api in China
+  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+  disqus_proxy = ""
+  disqus_site = ""
+
+  # Twikoo comments
+  # Follow https://twikoo.js.org/ to set up your own env_id
+  # twikoo_env_id = ""
+
+  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
+  reward = false 
+  # reward_guide = "" 
+
+  friends = true
+  bookmarks = true
+  about_me = true
+
+  # Include any custom CSS and/or JS files, url or relative to /static folder
+  #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+  #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+  [params.social]
+  rss            = true 
+  email          = "tracybannon@gmail.com"
+  linkedin       = "https://www.linkedin.com/in/tracylbannon/"
+  instagram     = "https://www.instagram.com/bannon.tracy/"
+  github         = "https://github.com/tracybannon/"
+  twitter        = "https://twitter.com/TracyBannon"
+ 
+
+    [[params.friend_link]]
+  title = "Bryan Finster"
+  href =  "https://bryanfinster.com/"
+  
+  [[params.bookmark_link]]
+  title =  "Martin Fowler"
+  href =  "https://martinfowler.com"
+  [[params.bookmark_link]]
+  title = "unsplash"
+  href = "https://unsplash.com"
+  
+  [[params.addtional_menus]]
+  title =  "Archive"
+  href =  "/archive/"
+  [[params.addtional_menus]]
+  title =  "Books"
+  href =  "/books/"
+ [[params.addtional_menus]]
+  title =  "Podcasts"
+  href =  "/podcasts/"
+ [[params.addtional_menus]]
+  title =  "About"
+  href =  "/about/"
+ [[params.addtional_menus]]
+  title =  "Contact "
+  href =  "/contact/"
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
