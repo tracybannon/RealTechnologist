@@ -94,6 +94,9 @@ home = ["HTML", "RSS", "Algolia"]
  [[params.addtional_menus]]
   title =  "About"
   href =  "/about/"
+   [[params.addtional_menus]]
+  title =  "Speaking "
+  href =  "/speaking/"
  [[params.addtional_menus]]
   title =  "Contact "
   href =  "/contact/"
