@@ -6,7 +6,7 @@ date:        2022-01-13
 author:      Tracy Bannon
 image:       "img/tapestry_wide.webp"
 tags:        ["Diversity", "Sharing"]
-categories:  ["HumansFirst" ]
+categories:  ["Blog" ]
 ---
 My personal journey has taught me the absolute value in diversity; our  many varied paths provide a broad set of experiences transforming the fabric of our creative problem solving from burlap to a rich tapestry.  With my mental map in mind, how do you think I responded to this question posed to me a few days ago:  “I see your undergraduate degree is a BA, why would I listen to you about anything related to software?”
 

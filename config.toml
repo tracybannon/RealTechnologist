@@ -13,7 +13,7 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/BanyonTree.jfif"
+  header_image = "img/martin-adams-hqeFe8mvtM8-unsplash.jpg"
   SEOTitle = "Trac Bannon DevSecOps"
   description = "My New WebSite"
   keyword = "DevSecOps, DevOps, Software Engineering, Software Architecture, Digital Transformation, Cloud Native, Mentor, Speaker, CICD, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer, DataOps, Design Patterns"
@@ -74,7 +74,7 @@ home = ["HTML", "RSS", "Algolia"]
   twitter        = "https://twitter.com/TracyBannon"
  
 
-    [[params.friend_link]]
+  [[params.friend_link]]
   title = "Bryan Finster"
   href =  "https://bryanfinster.com/"
   
@@ -94,7 +94,7 @@ home = ["HTML", "RSS", "Algolia"]
  [[params.addtional_menus]]
   title =  "About"
   href =  "/about/"
-   [[params.addtional_menus]]
+  [[params.addtional_menus]]
   title =  "Speaking "
   href =  "/speaking/"
  [[params.addtional_menus]]
@@ -117,3 +117,8 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  podcast = "podcasts"

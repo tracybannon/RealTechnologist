@@ -7,7 +7,7 @@ date:        2022-09-02
 author:      Tracy Bannon
 image:       "img/FirstPost.jpg"
 tags:        ["DevOps", "Sharing"]
-categories:  ["DevHops" ]
+categories:  ["PodCasts" ]
 excerpt: ""
 URL: 
 ---
