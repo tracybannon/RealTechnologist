@@ -3,11 +3,10 @@ title:       "A Year Of Change For This Software Architect"
 subtitle:    "2020. What a year of change this has been."
 description: ""
 date:        2020-09-28
-author:      "Tracy Bannon"
+author: "Tracy Bannon"
 categories:  ["Blog" ]
 image:       "img/covidgrocery.webp"
 tags:        ["Tech Predictions", "Sharing", "Tech Reflections"]
-
 ---
 ## Tech Reflections 
 When I started receiving congratulations messages on my work anniversary, it struck me just how fast the last 525,600 minutes have passed. So much has changed, and yet much remains the same.

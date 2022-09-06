@@ -3,7 +3,7 @@ title:       "Shift Left Acadermy: Builders and Breakers"
 subtitle:    ""
 description: ""
 date:        2022-07-28 
-author:      Tracy Bannon
+author: Tracy Bannon
 image:       ""
 tags:        ["DevOps", "Tech", "CyberSecurity"]
 categories:  ["PodCasts" ]

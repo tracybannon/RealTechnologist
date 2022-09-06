@@ -3,7 +3,7 @@ title:       "Burlap or Tapestry? Educational Diversity"
 subtitle:    ""
 description: ""
 date:        2022-01-13
-author:      Tracy Bannon
+author: Tracy Bannon
 image:       "img/tapestry_wide.webp"
 tags:        ["Diversity", "Sharing"]
 categories:  ["Blog" ]
