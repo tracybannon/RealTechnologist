@@ -9,13 +9,11 @@ tags:        ["Humans First", "Mentoring", "Real Technologist"]
 ### Tracy “Trac” Bannon
 #### /trās/
 
-I am a real technologist, tech evangelist, and passionate architecxt. My focus is the human side of software architecture. With over 15 years of experince designing, delivering, and continuously improving to deliver value.  
+I am a real technologist, tech evangelist, and passionate architecxt. My focus is the human side of software architecture. With over 15 years of experince designing, delivering, and continuously improving to deliver value.   Some considewr me an accomplished software architect, engineer, and DevSecOps advisor having worked across commercial and government clients.  I spend a ton of time with decoupled architectures and especially cloud native!   
 
-An accomplished software architect, engineer, and DevSecOps advisor having worked across commercial and government clients.  I spend a ton of time with decoupled architectures and especially cloud native!   Helping organization on their journey to be digital first means helping them to adopt modern softare practices like *#DevSecOps*,  *#DataOps*, and *#ContinuousEverything*. 
+Helping organization on their journey to be digital first means helping them to adopt modern softare practices like *#DevSecOps*,  *#DataOps*, and *#ContinuousEverything*.  Community building and knowledge sharing it a TOP priority including mentoring, training, and building out "guidance as code" as a contributor and maintainer for [MinimumCD.org](https://minimumcd.org/minimumcd/).  
 
-Community building and knowledge sharing it a TOP priority including mentoring, training, and building out "guidance as code" as a contributor and maintainer for [MinimumCD.org](https://minimumcd.org/minimumcd/)
-
-As a Senior Principal at [The MITRE Corporation's Advanced Software Innovation Center](https://www.mitre.org/) and I truly spend my days solving problems for a safer world.  
+As a Senior Principal with [The MITRE Corporation's Advanced Software Innovation Center](https://www.mitre.org/),  I truly spend my days solving problems for a safer world.  I'm also an ambassador with the [DevOps Institute](https://www.devopsinstitute.com/) continuing to share experieces and connect humans together!
 
 When I have free time I love to writing technical blog posts, read, biking, gardening, learn, and traveling.
 
