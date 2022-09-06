@@ -4,7 +4,7 @@ layout:      post
 subtitle:    ""
 description: ""
 date:        2022-09-02
-author:      Tracy Bannon
+author: Tracy Bannon
 image:       "img/FirstPost.jpg"
 tags:        ["DevOps", "Sharing"]
 categories:  ["PodCasts" ]

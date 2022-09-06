@@ -3,7 +3,7 @@ title:       "DOI: DataOps is not DevOps for a database"
 subtitle:    ""
 description: ""
 date:        2021-09-30
-author:      Tracy Bannon
+author: Tracy Bannon
 image:       ""
 tags:        ["DevOps", "DataOps"]
 categories:  ["PodCasts" ]

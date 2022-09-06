@@ -3,7 +3,7 @@ title:       "In the Nic of Time with Tracy Bannon"
 subtitle:    ""
 description: ""
 date:        2022-04-07
-author:      Tracy Bannon
+author: Tracy Bannon
 image:       ""
 tags:        ["Culture", "DevSecOps"]
 categories:  ["Podcasts" ]
