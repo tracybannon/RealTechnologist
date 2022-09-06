@@ -1,5 +1,5 @@
 baseurl = ""
-title = "Trac Bannon"
+title = "Tracy Bannon"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/martin-adams-hqeFe8mvtM8-unsplash.jpg"
   SEOTitle = "Trac Bannon DevSecOps"
-  description = "My New WebSite"
+  description = "Humans and Tech"
   keyword = "DevSecOps, DevOps, Software Engineering, Software Architecture, Digital Transformation, Cloud Native, Mentor, Speaker, CICD, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer, DataOps, Design Patterns"
   slogan = "It's the humans that matter..."
 
