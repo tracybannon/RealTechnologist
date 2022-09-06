@@ -6,8 +6,6 @@ description: ""
 date:  2021-02-10
 author: Tracy Bannon
 image:       ""
-thumbnail_image:""
-thumbnail_image_alt:""
 tags:        ["DevOps", "VSM"]
 categories:  ["PodCasts" ]
 ---
