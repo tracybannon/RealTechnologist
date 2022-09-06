@@ -4,7 +4,7 @@ subtitle:    "2020. What a year of change this has been."
 description: ""
 date:        2020-09-28
 author:      "Tracy Bannon"
-categories:  ["Tech Reflections" ]
+categories:  ["Blog" ]
 image:       "img/covidgrocery.webp"
 tags:        ["Tech Predictions", "Sharing", "Tech Reflections"]
 
