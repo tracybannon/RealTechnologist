@@ -13,7 +13,7 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/martin-adams-hqeFe8mvtM8-unsplash.jpg"
+  header_image = "img/TracyBannon150.jpg"
   SEOTitle = "Trac Bannon DevSecOps"
   description = "Humans and Tech"
   keyword = "DevSecOps, DevOps, Software Engineering, Software Architecture, Digital Transformation, Cloud Native, Mentor, Speaker, CICD, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer, DataOps, Design Patterns"
@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "Real Technologist, Human-Focused Software Architect, Change Agent, Tech Evangelist,Mentor, Speaker, Author, Ambassador, Engineer"
-  sidebar_avatar = "img/Bannon_SideHeadShot.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/Headshot_1.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
