@@ -1,10 +1,11 @@
+googleAnalytics = "G-8DYNHER2DQ"
+#googleAnalytics = "G-LERLZ6697W"
 baseurl = ""
 title = "Tracy Bannon"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = false
@@ -97,6 +98,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "Speaking "
   href =  "/speaking/"
+  # [[params.addtional_menus]]
+  # title =  "Gallery "
+  # href =  "/gallery/"
  [[params.addtional_menus]]
   title =  "Contact "
   href =  "/contact/"
