@@ -22,7 +22,7 @@ Reinventing Cybersecurity explores a central theme of redefinition with diverse 
 
 In the latest JupiterOne Press book, readers will discover practical guidance for addressing cybersecurity challenges that span the technical, the interpersonal, and strategic aspects of the industry. Each story unearths a unique aspect of the cybersecurity industry, ranging from intimate to epic, grounded to far future, hopeful to determined.
 
-![Scenario 1: Across columns](/img/bookcover.png)
+![Test](/img/bookcover.png)
 
 https://www.amazon.com/Reinventing-Cybersecurity-Jasmine-Henry/dp/B09YH8K2M4
 
