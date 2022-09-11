@@ -4,7 +4,7 @@ subtitle:    ""
 description: ""
 date:        2022-01-13
 author: Tracy Bannon
-image:       "img/tapestry_wide.webp"
+image:       "img/BlogImages/tapestry.jpeg"
 tags:        ["Diversity", "Sharing"]
 categories:  ["Blog" ]
 ---

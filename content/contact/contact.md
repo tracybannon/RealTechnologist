@@ -3,6 +3,8 @@ title: "Contact"
 date: 2022-09-03T19:29:09-04:00
 draft: false
 ---
+/trās/
+Trac is a real technologist and tech evangelist. Her focus is the human side of software architecture.
 
 {{< rawhtml >}}
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfS-1buyZpi9He59bK2q2JJlE4AMhTnlsjo2s2Xn6SEAUBv2Q/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
