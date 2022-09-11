@@ -8,6 +8,7 @@ tags:        ["Humans First", "Mentoring", "Real Technologist"]
 ## About Me
 ### Tracy “Trac” Bannon
 #### /trās/
+##### Mentor, Speaker, Author, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer
 
 I am a real technologist, tech evangelist, and passionate architecxt. My focus is the human side of software architecture. With over 15 years of experince designing, delivering, and continuously improving to deliver value.   Some considewr me an accomplished software architect, engineer, and DevSecOps advisor having worked across commercial and government clients.  I spend a ton of time with decoupled architectures and especially cloud native!   
 
