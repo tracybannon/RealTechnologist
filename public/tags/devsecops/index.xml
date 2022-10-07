@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevSecOps on Tracy Bannon</title>
+    <link>/tags/devsecops/</link>
+    <description>Recent content in DevSecOps on Tracy Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In the Nic of Time with Tracy Bannon</title>
+      <link>/post/podcasts/nicoftime/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/nicoftime/</guid>
+      <description>In the Nic of Time with Tracy Bannon: Why Culture matters!] Why Culture matters so much to succeed in software innovation, how to attract and retain talent, how to train your teams and what is working or NOT working when it comes to the DoD Software Factories! Nic invites Trac to share her experience in her role with MITRE as Senior Principal/ Software Architect &amp;amp; DevOps Advisor. </description>
+    </item>
+    
+    <item>
+      <title>Federal Low Code Trailblazers</title>
+      <link>/post/podcasts/federallowcodetrailblazers/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/federallowcodetrailblazers/</guid>
+      <description>Federal Low Code Trailblazers with Tracy Bannon and others! Join us for this episode of the Federal Low Code Trailblazers Podcast with Bill Bunce, Pegasystems, and Special Guests Tracy Bannon, Senior Principal/ Software Architect &amp;amp; DevOps Advisor, MITRE and Alex Sutherland, Director, Salesforce Architecture, Liberty IT Solutions as they discuss DevOps, DevSecOps, and containerization throughout the Federal Government. See what processes they recommend to build and sustain DevOps practices, and the current status of of DevOps in the Federal IT ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Faux Script Kiddie!</title>
+      <link>/post/2021/fauxscriptkliddie/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/fauxscriptkliddie/</guid>
+      <description>A few weeks ago I dusted off my dog-eared copy of ”The Web Application Hacker’s Handbook” by Studdard and Pinto (Yes,I still prefer printed books though I now spring for a second e-version for when I’m traveling.).
+I’ve installed the most recent version of Burp Suite community edition and OWASP’s ZAP and decided to freshen up my ethical hacking/cyber-student skills. Of course, I am not probing public sites, but rather, using the ethical learning sites:</description>
+    </item>
+    
+  </channel>
+</rss>

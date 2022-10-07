@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering on Tracy Bannon</title>
+    <link>/tags/software-engineering/</link>
+    <description>Recent content in Software Engineering on Tracy Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Everything</title>
+      <link>/post/2021/distributedeverything/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/distributedeverything/</guid>
+      <description>A recent post by George Lawton on venturebeat.com highlighted insights by Gartner’s analysts on pressing trends for operationalizing business value (aka value stream/ mission delivery). The key take away is the need to address composability and “distributed everything.” I’ll add a personal “+1” to that assertion given my observations with my clients and federal sponsors.
+Growth in composable infrastructure is powered by cloud capabilities. Growth in composability of data and analytics is fueled by a few drivers: the need to harness and make use of the data available th enteprise already has, the need to deal with growing volumes of new data available to the enterprise, and the incorporation of multiple analytics techniques into all facets of software intensive systems.</description>
+    </item>
+    
+  </channel>
+</rss>

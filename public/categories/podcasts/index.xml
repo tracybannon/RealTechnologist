@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PodCasts on Tracy Bannon</title>
+    <link>/categories/podcasts/</link>
+    <description>Recent content in PodCasts on Tracy Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcast Series:On the Road to DevHops</title>
+      <link>/post/podcasts/ontheroadtodevhops/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/ontheroadtodevhops/</guid>
+      <description>In this video series, Trac Bannon and Bryan Finster belly up to the bar and have an honest dialog about DevOps, Software Engineering, and delivering value. These two spar, disagree, and even invite few guests when they need new punching bags (just kidding). From being a “SADMF” to Culture to debates on the meaning of Autonomy, the content is relevant and unedited. Trac and Bryan even add an occasional guest to spice up the mix!</description>
+    </item>
+    
+    <item>
+      <title>Podcast Series:Tech.Strong.Women</title>
+      <link>/post/podcasts/techstrongwomen/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/techstrongwomen/</guid>
+      <description>Tracy Bannon and Charlene O’Hanlon co-host this video series on focused on the challenges and successes that have helped shape women’s collective journey in IT and ways to elevate conversations around equity and parity beyond gender norms.
+Guests range from rising starts to CEOs who are all, as I like to say, totally #Badass
+View the entire season on Digital Anarchist. Here are the most recent! https://digitalanarchist.com/videos/tech-strong-women
+Beyond Gender Norms In this inaugural episode of Tech.</description>
+    </item>
+    
+    <item>
+      <title>Shift Left Acadermy: Builders and Breakers</title>
+      <link>/post/podcasts/buildersandbreakers/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/buildersandbreakers/</guid>
+      <description>Builders and Breakers Our best way forward towards cyber secure software is teaching builders to think like breakers and breakers to understand builders. Excellent discussion by Tracy Bannon, Casey Ellis, facilitated by Deb Radcliff</description>
+    </item>
+    
+    <item>
+      <title>In the Nic of Time with Tracy Bannon</title>
+      <link>/post/podcasts/nicoftime/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/nicoftime/</guid>
+      <description>In the Nic of Time with Tracy Bannon: Why Culture matters!] Why Culture matters so much to succeed in software innovation, how to attract and retain talent, how to train your teams and what is working or NOT working when it comes to the DoD Software Factories! Nic invites Trac to share her experience in her role with MITRE as Senior Principal/ Software Architect &amp;amp; DevOps Advisor. </description>
+    </item>
+    
+    <item>
+      <title>Federal Low Code Trailblazers</title>
+      <link>/post/podcasts/federallowcodetrailblazers/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/federallowcodetrailblazers/</guid>
+      <description>Federal Low Code Trailblazers with Tracy Bannon and others! Join us for this episode of the Federal Low Code Trailblazers Podcast with Bill Bunce, Pegasystems, and Special Guests Tracy Bannon, Senior Principal/ Software Architect &amp;amp; DevOps Advisor, MITRE and Alex Sutherland, Director, Salesforce Architecture, Liberty IT Solutions as they discuss DevOps, DevSecOps, and containerization throughout the Federal Government. See what processes they recommend to build and sustain DevOps practices, and the current status of of DevOps in the Federal IT ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>DOI: DataOps is not DevOps for a database</title>
+      <link>/post/podcasts/dataopsisnotdevops_fordb/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/dataopsisnotdevops_fordb/</guid>
+      <description>DataOps is not DevOps for a database At the DevOps Online Summint, 2021, Tracy Bannon tries to clear up some things about DataOps. In this conversation, she explains why DataOps is not DevOps for a database! In this converastion, Trac talks with Tom Henricksen about the differences and why folks get confused. </description>
+    </item>
+    
+    <item>
+      <title>VSM and DevOps Predictions 2022</title>
+      <link>/post/2021/vsm_and_devops_predictions/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/vsm_and_devops_predictions/</guid>
+      <description>VSM and DevOps Predictions 2022 At the DevOps Online Summint, 2021, Tracy Bannon tries to clear up some things about DataOps. In this conversation, she explains why DataOps is not DevOps for a 2021 has been a breakthrough year for value stream management (VSM). From the inaugural State of VSM report and expansion of the Value Stream Management Consortium to the rise of advanced VSM platforms, value stream management continues to grow as an industry.</description>
+    </item>
+    
+  </channel>
+</rss>

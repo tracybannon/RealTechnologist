@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture on Tracy Bannon</title>
+    <link>/tags/culture/</link>
+    <description>Recent content in Culture on Tracy Bannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In the Nic of Time with Tracy Bannon</title>
+      <link>/post/podcasts/nicoftime/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/podcasts/nicoftime/</guid>
+      <description>In the Nic of Time with Tracy Bannon: Why Culture matters!] Why Culture matters so much to succeed in software innovation, how to attract and retain talent, how to train your teams and what is working or NOT working when it comes to the DoD Software Factories! Nic invites Trac to share her experience in her role with MITRE as Senior Principal/ Software Architect &amp;amp; DevOps Advisor. </description>
+    </item>
+    
+  </channel>
+</rss>
