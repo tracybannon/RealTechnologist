@@ -25,7 +25,10 @@ Here’s a wrinkle:  most upskilling and innovative tools are not developer focu
 
 As an industry, what are we to do?  Take a look at these suggestions:
 
- ### Structured Education 
+### Start with Culture Building
+Start by building culture together - Cybersecurity and software delivery depend on trust for teammates and for processes.  Begin with the end in mind and together, define unifying principles for delivery.  Agree on roles and responsibilities as well. By working elbow to elbow with the same mission and values, people tend to build the necessary relationships and mental models.  The term *together* is key.  As a group, define your secure software development framework (SSDF).  I recommend using the [NIST Special Publication 800-218](https://csrc.nist.gov/publications/detail/sp/800-218/final)  as a guide.  Keep in mind, it will tell you *what* to do, *not how* to do it.  Navigate this together. 
+
+### Structured Education 
  Put structure around developer education - Most security training for developers lacks depth and examples.  Focus on the 70:20:10 model with 70% on the job experience and challenges, 20% informal like mentoring and 10% formal training.  
 
 I'm doing this now with stream-aligned teams and avoiding heavy upfront training.  This doesn’t mean no formal training; it means focus on applying what has been learned.  I’m finding more and more groups are taking on this informed and practical approach.   It’s much like apprenticing.  You need to learn, practice, and demonstrate. 
@@ -47,6 +50,16 @@ Teach developers to think about breaking things - Sounds counterintuitive? Nope!
 Plan time and funding for upskilling and education - Perhaps the biggest challenge to reducing hobbyists is to commit funding and plan time for cornerstone learning. The education and learning company, Security Journey/Hacked_EDU also places emphasis on hands-on learning moving away from lecture or slide-driven education to immersive experience.   The US Air Force has invested in immersive learning with their [Digital University](https://digitalu.af.mil/) founded with the help of an industry consortium. It’s so effective that other US Services are looking to use this capability as well.  
 
 Many training organizations and groups focused on improving cybersecurity knowledge are also recommending changes. Synopsys calls out that the lack of developer training in particular on secuirty topics is a risk to all [application security (appsec)](https://www.synopsys.com/blogs/software-security/security-training-developers/).
+
+### Secure by Design and Build
+Focus on being secure by design and implement secure coding standards.  An estimated 82% of software vulnerabilities are from coding [errors](https://www.ptsecurity.com/ww-en/analytics/web-vulnerabilities-2020/)  Take time to be familiar with common security issues and approaches to secure design thinking.
+
+- [DISA STIG](https://public.cyber.mil/stigs/)  – Department of Defense’s Secure Technical Implementation Guide 
+- [CWE and CWE Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html)
+- [OWASP and OWASP Top 10](https://owasp.org/www-project-top-ten/)  – Web apps and APIs
+- [CVE](https://cve.mitre.org/)  - Cybersecurity vulnerabilities and exposures
+
+Elevate the importance and need for identification of the coding standards as a group effort.  There is no need to start from scratch.  I recommend starting with the Software Engineering Institute's [CERT coding standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) from Carnegie Mellon which covers multiple languages including C, C++, Java, Perl, and Android
 
  ### Give time for play
 Give the entire delivery team time to play!  Give teams dedicated time to play with different training projects.  One particularly popular training project that is used in universities and high schools is the OWASP training project [WebGoat](https://owasp.org/www-project-webgoat/).  Their playful motto speaks volumes:  “Learn to Hack, Stop the attack.”   Keeping with the theme of not forcing our delivery teams to be cyber security hobbyists, it is important to both team building and to learning to provide dedicated time to learn through play. 
@@ -80,6 +93,5 @@ Embrace Shared Responsibility And Give Grace - Cybersecurity is truly a shared r
 
 
 If you take away a single thought, it is that we **cannot lob more responsibility onto developers without arming them and the organization**!  Security is not for self-taught hobbyists.  Learning, experimentation, and psychological safety MUST be cornerstone elements as we move forward with secure software. 
-
 
 *Photo by Jasmin Schreiber on Unsplash* 
