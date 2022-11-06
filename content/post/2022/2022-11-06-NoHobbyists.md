@@ -23,6 +23,8 @@ Next, we need to recognize the shortage of cyber talent. In the October 2022 [(I
 
 Here’s a wrinkle:  most upskilling and innovative tools are not developer focused.   Earlier in 2022, Synopsys called out a “critical gap in developer security training puts applications at risk”.  
 
+>“Developers are experts at crafting good code, building scalable architectures, and using continuous delivery, not waving magic wands to cast spells that can defend against evil hackers in black hoodies.” - Johnsson, Deogun, Sawano
+
 As an industry, what are we to do?  Take a look at these suggestions:
 
 ### Start with Culture Building
