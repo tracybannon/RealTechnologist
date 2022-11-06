@@ -14,7 +14,7 @@ I am a real technologist, tech evangelist, and passionate architecxt. My focus i
 
 Helping organization on their journey to be digital first means helping them to adopt modern softare practices like *#DevSecOps*,  *#DataOps*, and *#ContinuousEverything*.  Community building and knowledge sharing it a TOP priority including mentoring, training, and building out "guidance as code" as a contributor and maintainer for [MinimumCD.org](https://minimumcd.org/minimumcd/).  
 
-As a Senior Principal with [The MITRE Corporation's Advanced Software Innovation Center](https://www.mitre.org/),  I truly spend my days solving problems for a safer world.  I'm also an ambassador with the [DevOps Institute](https://www.devopsinstitute.com/) continuing to share experieces and connect humans together!
+As a Senior Principal with [The MITRE Corporation's Advanced Software Innovation Center](https://www.mitre.org/),  I truly spend my days solving problems for a safer world.  In addition to being a member of the [Value Stream Management Consortium](https://www.vsmconsortium.org/), I'm also an ambassador with the [DevOps Institute](https://www.devopsinstitute.com/) continuing to share experieces and connect humans together!
 
 When I have free time I love to writing technical blog posts, read, biking, gardening, learn, and traveling.
 
