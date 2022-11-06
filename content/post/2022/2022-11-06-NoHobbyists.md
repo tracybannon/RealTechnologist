@@ -61,7 +61,7 @@ Focus on being secure by design and implement secure coding standards.  An estim
 
 Elevate the importance and need for identification of the coding standards as a group effort.  There is no need to start from scratch.  I recommend starting with the Software Engineering Institute's [CERT coding standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) from Carnegie Mellon which covers multiple languages including C, C++, Java, Perl, and Android
 
- ### Give time for play
+ ### Give Time for Play
 Give the entire delivery team time to play!  Give teams dedicated time to play with different training projects.  One particularly popular training project that is used in universities and high schools is the OWASP training project [WebGoat](https://owasp.org/www-project-webgoat/).  Their playful motto speaks volumes:  “Learn to Hack, Stop the attack.”   Keeping with the theme of not forcing our delivery teams to be cyber security hobbyists, it is important to both team building and to learning to provide dedicated time to learn through play. 
 
 Gamification tools are also helpful for learning.  CISA (the US Cybersecurity and Infrastructure Security Agency) has partnered with Pacific Northwest National Labs to create cybersecurity learning games for mobile devices.   The first to be released is “Defend the Crown”.  MITRE, a federally funded research and development corporation (FFRDC) has also created a gamification engine specifically for cyber security learning.  The [MITRE Cyber Academy](https://mitrecyberacademy.org/) gives options to learn and compete with other students. They’ve extended the offering to include embedded software cyber techniques as well. 
