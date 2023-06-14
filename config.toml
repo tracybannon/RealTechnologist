@@ -15,9 +15,9 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/TracyBannon150.jpg"
-  SEOTitle = "Trac Bannon DevSecOps"
+  SEOTitle = "Tracy Bannon"
   description = "Humans and Tech"
-  keyword = "DevSecOps, DevOps, Software Engineering, Software Architecture, Digital Transformation, Cloud Native, Mentor, Speaker, CICD, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer, DataOps, Design Patterns"
+  keyword = "DevSecOps, DevOps, Software Engineering, Software Architecture, Digital Transformation, Cloud Native, Mentor, Speaker, CI/CD, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer, DataOps, Design Patterns"
   slogan = "It's the humans that matter..."
 
   image_404 = "img/404-bg.jpg"
@@ -37,7 +37,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "Real Technologist, Human-Focused Software Architect, Change Agent, Tech Evangelist,Mentor, Speaker, Author, Ambassador, Engineer"
-  sidebar_avatar = "img/TracB008_PodCast_Crop.jpg" #"img/Bannon_SideHeadShot.jpg"       # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/TracB008_PodCast_Crop.jpg" #  # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -75,7 +75,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  email          = "tracybannon@gmail.com"
+  email          = "trac@tracybannon.tech"
   linkedin       = "https://www.linkedin.com/in/tracylbannon/"
   instagram     = "https://www.instagram.com/bannon.tracy/"
   github         = "https://github.com/tracybannon/"
