@@ -77,21 +77,23 @@ home = ["HTML", "RSS", "Algolia"]
   rss            = true 
   email          = "trac@tracybannon.tech"
   linkedin       = "https://www.linkedin.com/in/tracylbannon/"
-  instagram     = "https://www.instagram.com/bannon.tracy/"
+  instagram      = "https://www.instagram.com/bannon.tracy/"
   github         = "https://github.com/tracybannon/"
   twitter        = "https://twitter.com/TracyBannon"
  
 
   [[params.friend_link]]
+  title = "Brian Chambers"
+  href =  "https://brianchambers.substack.com/"
+  [[params.friend_link]]
   title = "Bryan Finster"
   href =  "https://bryanfinster.com/"
-   [[params.friend_link]]
+  [[params.friend_link]]
   title = "Dave Farley"
   href =  "https://www.davefarley.net/"
   [[params.friend_link]]
   title = "Deb Radcliff"
   href =  "https://debradcliff.com/"
-
 
 
   [[params.bookmark_link]]
@@ -104,13 +106,20 @@ home = ["HTML", "RSS", "Algolia"]
   # [[params.addtional_menus]]
   # title =  "Archive"
   # href =  "/archive/"
- [[params.addtional_menus]]
+
+  [[params.addtional_menus]]
   title =  "About"
   href =  "/about/"
   [[params.addtional_menus]]
   title =  "Books"
   href =  "/books/"
- [[params.addtional_menus]]
+  [[params.addtional_menus]]
+  title =  "#RealTechnologists"
+  href =  "/realtech/"
+  [[params.addtional_menus]]
+  title =  "It's 5:05"
+  href =  "/505/"
+  [[params.addtional_menus]]
   title =  "Contact "
   href =  "/contact/"
 
