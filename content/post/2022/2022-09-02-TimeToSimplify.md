@@ -6,7 +6,7 @@ description: ""
 date:        2022-09-02
 author: Tracy Bannon
 image:       "img/BlogImages/averie-woodard-5d20kdvFCfA-unsplash.jpg"
-tags:        ["Design Patterns", "Real Technologist", "Sharing"]
+tags:        ["Design Patterns", "Real Technologists", "Sharing"]
 categories:  ["Blog" ]
 URL: 
 ---

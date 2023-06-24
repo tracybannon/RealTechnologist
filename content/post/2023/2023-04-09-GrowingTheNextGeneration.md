@@ -10,6 +10,7 @@ tags:        ["Software Architects", "Next Generation", "Mentoring", "Software A
 categories:  ["Blog" ]
 ---
 I'm passionate that we grow the next generation of software architects. Brian Chambers and I have been discussing types of skills needed and came across a blog by Matt Shealy. Software architecture a high-demand role that blends engineering and business leadership.
+
 🚀 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀
 - Diagramming complex architectures (e.g., C4 Modeling, UML, SysML)
 - Deep knowledge of programming languages (Java, JavaScript, Python, Ruby, Rust, Go, C, COBOL)
