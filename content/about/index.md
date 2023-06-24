@@ -21,7 +21,7 @@ As a Senior Principal with [The MITRE Corporation's Advanced Software Innovation
 
 And just for fun, I'm a featured industry speaker, blogger, author, and accomplished podcaster including 𝗥𝗲𝗮𝗹 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝘀𝘁𝘀 and 𝗜𝘁'𝘀 𝟱𝟬𝟱! 𝗗𝗮𝗶𝗹𝘆 𝗣𝗼𝗱𝗰𝗮𝘀𝘁 (part of Sourced Network Production).
 
-When I have free time I love to writing technical blog posts, read, biking, gardening, learn, and traveling.
+When I have free time, I love  writing technical blog posts, readin, biking, gardening, learning, and traveling.
 
 Feel free to connect me at Github and Linkedin, leave your thoughts in my blog or share your ideas by [writing an email](mailto:trac@tracybannon.tech). 
 
