@@ -10,7 +10,7 @@ In our world today, technology plays an increasingly significant role in shaping
 Each episode is crafted to broaden your perspective, spark innovation, and help you make better decisions by showcasing the diversity of thought and experiences within the tech industry.
 
 
-<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+<div style="padding-bottom:75%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
     src="https://realtechnologists.org/"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
