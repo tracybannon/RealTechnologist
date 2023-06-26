@@ -106,7 +106,6 @@ home = ["HTML", "RSS", "Algolia"]
   # [[params.addtional_menus]]
   # title =  "Archive"
   # href =  "/archive/"
-
   [[params.addtional_menus]]
   title =  "About"
   href =  "/about/"
@@ -150,4 +149,4 @@ params = ["categories", "tags"]
   tag = "tags"
   podcast = "podcasts"
   talks = "talks"
-  presentations = "presentations"
+  materials = "materials"
