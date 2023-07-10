@@ -5,13 +5,13 @@ subtitle:    ""
 description: ""
 date:        2023-07-09
 author: Tracy Bannon
-image:       "img/BlogImages/real_tech_logo_no_background_v1.png"
+image:       "img/PodcastTiles/BlackOnGreen505.png"
 tags:        ["CyberSecurity", "Open Source", "It's 5:05"]
 categories:  ["PodCasts" ]
 excerpt: ""
 URL: 
 ---
-I am proud to be a contrbuting journalist and podcaster for **It's 5:05.** This briefing airs daily at 5:05 ET US focused on Open Source and Cybersecurity News.  You can check out all my contributions below. 
+I am proud to be a contrbuting journalist and podcaster for **It's 5:05.** This briefing airs daily at 5:05 ET US focused on Open Source and Cybersecurity News.  You can check out all my contributions below.  Also head over to **[It's 505 Updates Website and subscribe!](https://505updates.com/)**
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
