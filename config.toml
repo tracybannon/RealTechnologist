@@ -115,9 +115,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "#RealTechnologists"
   href =  "/realtech/"
-  [[params.addtional_menus]]
-  title =  "It's 5:05"
-  href =  "/505/"
+  # [[params.addtional_menus]]
+  # title =  "It's 5:05"
+  # href =  "/505/"
   [[params.addtional_menus]]
   title =  "Contact "
   href =  "/contact/"
