@@ -1,23 +1,22 @@
 ---
-title:      "Podcast Series:Real Technologists"
+title:      "Podcast Series:It's 505!"
 layout:      post 
 subtitle:    ""
 description: ""
 date:        2023-07-09
 author: Tracy Bannon
 image:       "img/BlogImages/real_tech_logo_no_background_v1.png"
-tags:        ["Real Technologists", "Humans First", "Diversity", "Thought Leadership"]
+tags:        ["CyberSecurity", "Open Source", "It's 5:05"]
 categories:  ["PodCasts" ]
 excerpt: ""
 URL: 
 ---
-In our world today, technology plays an increasingly significant role in shaping our lives. The way we communicate, work, and even entertain ourselves is being revolutionized by tech. Behind every innovation, there’s a person, a human being with unique experiences, perspectives and challenges. Understanding what shaped their perspective is a real goal. That's why I created the **Real Technologists Podcast**.  Each week I explore the genuine stories and true journeys of folks shaping our digital future. How did they navigate this complex world of ours? What challenges did they face? What are the innovative ideas that continue to propel them forward?
+I am proud to be a contrbuting journalist and podcaster for **It's 5:05.** This briefing airs daily at 5:05 ET US focused on Open Source and Cybersecurity News.  You can check out all my contributions below. 
 
-Each episode is crafted to broaden your perspective, spark innovation, and help you make better decisions by showcasing the diversity of thought and experiences within the tech industry.
-
-<div style="padding-bottom:75%; position:relative; display:block; width: 100%">
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
-    src="https://realtechnologists.org/"
+    src="https://505updates.com/tracbannon/"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+    Loading…
   </iframe>
 </div>
