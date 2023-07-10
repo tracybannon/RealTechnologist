@@ -6,7 +6,7 @@ date:        2023-03-21
 author: Tracy Bannon
 image:       "img/Alaska_Bannon - CROP.JPG"
 tags:        [ "Generative AI", "Low Code/No Code", "ChatGPT"]
-categories:  ["Presentations"]
+categories:  ["materials"]
 excerpt: ""
 URL: 
 ---

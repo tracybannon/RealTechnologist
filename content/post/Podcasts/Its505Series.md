@@ -1,9 +1,15 @@
 ---
-layout: page
-multilingual: false
-title:       "It's 5:05 Podcast Series"
-image:  "img/BlogImages/real_tech_logo_no_background_v1.png"
-tags: ["CyberSecurity", "Open Source", "It's 5:05"]
+title:      "Podcast Series:It's 505!"
+layout:      post 
+subtitle:    ""
+description: ""
+date:        2023-07-09
+author: Tracy Bannon
+image:       "img/BlogImages/real_tech_logo_no_background_v1.png"
+tags:        ["CyberSecurity", "Open Source", "It's 5:05"]
+categories:  ["PodCasts" ]
+excerpt: ""
+URL: 
 ---
 I am proud to be a contrbuting journalist and podcaster for **It's 5:05.** This briefing airs daily at 5:05 ET US focused on Open Source and Cybersecurity News.  You can check out all my contributions below. 
 
@@ -14,6 +20,3 @@ I am proud to be a contrbuting journalist and podcaster for **It's 5:05.** This 
     Loading…
   </iframe>
 </div>
-
-
-
