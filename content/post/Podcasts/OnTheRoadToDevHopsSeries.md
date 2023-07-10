@@ -28,7 +28,6 @@ What do you do when someone says they just want to build and don't care about th
 In this episode, Bryan and Vilas Veeraraghaven discuss their perspectives and the challenges they`ve seen with building effective and scalable delivery platforms.
 {{< youtube 6EHp3YXJwP8 >}}
 
-
 ### Season 1, Episode 6: Emergent versus Evolutionary Architecture
 Trac & Bryan are at it again... no guests just pure debate on Trac's distain for "Emergent architecture".  Find out the difference between emergent and evolutionary architecture how to determine the right fit for each?
 {{< youtube rts4IcjdRDI >}}

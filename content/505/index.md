@@ -1,9 +1,9 @@
 ---
 layout: page
 multilingual: false
-title:       "I'ts 505 Podcast PodCast"
+title:       "It's 5:05 Podcast Series"
 image:  "img/BlogImages/real_tech_logo_no_background_v1.png"
-tags: ["Humans First", "Real Technologists"]
+tags: ["CyberSecurity", "Open Source", "It's 5:05"]
 ---
 I am proud to be a contrbuting journalist and podcaster for **It's 5:05.** This briefing airs daily at 5:05 ET US focused on Open Source and Cybersecurity News.  You can check out all my contributions below. 
 
