@@ -1,5 +1,5 @@
 ---
-title:      "Desgn Pattern Chuckle"
+title:      "Design Pattern Chuckle"
 subtitle:    ""
 description: ""
 date:        2023-04-07
