@@ -3,7 +3,7 @@ title:      "Podcast Series:On the Road to DevHops"
 layout:      post 
 subtitle:    ""
 description: ""
-date:        2022-09-02
+date:        2023-06-10
 author: Tracy Bannon
 image:       "img/FirstPost.jpg"
 tags:        ["DevOps", "Sharing"]

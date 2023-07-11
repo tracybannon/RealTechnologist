@@ -5,7 +5,7 @@ description: ""
 date:        2020-09-28
 author: "Tracy Bannon"
 categories:  ["Blog" ]
-image:       "img/covidgrocery.webp"
+image:       "img/BlogImages/covidgrocery.webp"
 tags:        ["Tech Predictions", "Sharing", "Tech Reflections"]
 ---
 ## Tech Reflections 
