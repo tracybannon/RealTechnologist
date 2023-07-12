@@ -4,7 +4,7 @@ subtitle:    ""
 description: ""
 date:        2022-04-22
 author: Tracy Bannon
-image:       ""
+image:       " "
 tags:        ["Culture", "DevSecOps", "SEI", "Carnegie Mellon"]
 categories:  ["Podcasts" ]
 ---

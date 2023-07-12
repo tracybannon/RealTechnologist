@@ -3,7 +3,7 @@ title:      "Podcast Series:Tech.Strong.Women"
 layout:      post 
 subtitle:    ""
 description: ""
-date:        2022-09-02
+date:        2022-04-02
 author: Tracy Bannon
 image:       "img/FirstPost.jpg"
 tags:        ["DevOps", "Sharing"]
