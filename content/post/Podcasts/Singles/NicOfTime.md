@@ -4,7 +4,7 @@ subtitle:    ""
 description: ""
 date:        2022-04-07
 author: Tracy Bannon
-image:       ""
+image:       " "
 tags:        ["Culture", "DevSecOps"]
 categories:  ["Podcasts" ]
 ---
