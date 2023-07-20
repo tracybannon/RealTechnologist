@@ -3,7 +3,7 @@ title:      "Podcast Series:Real Technologists"
 layout:      post 
 subtitle:    ""
 description: ""
-date:        2023-07-09
+date:        2023-07-19
 author: Tracy Bannon
 image:       "img/BlogImages/real_tech_logo_no_background_v1.png"
 tags:        ["Real Technologists", "Humans First", "Diversity", "Thought Leadership"]
