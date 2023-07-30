@@ -3,7 +3,7 @@ title:      "Podcast Series:It's 505!"
 layout:      post 
 subtitle:    ""
 description: ""
-date:        2023-07-09
+date:        2023-07-24
 author: Tracy Bannon
 image:       "img/PodcastTiles/BlackOnGreen505.png"
 tags:        ["CyberSecurity", "Open Source", "It's 5:05"]
