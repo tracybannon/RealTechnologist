@@ -8,7 +8,7 @@ This repo uses a Hugo theme called "CleanWhite" from zhaohuabing.  It's clean, a
  ### 1. Setting up Hugo (this is for Windows 11)
  
  - Setting up HUGO:  https://www.jeremymorgan.com/tutorials/golang/how-to-hugo-windows-11/
- - Instructions verified on August 20,2023 
+ - Instructions verified on August 20,2023 using "Installing the Binary (The Easy Way)"
 
  
  ### 2. Cloning + Running Locally
