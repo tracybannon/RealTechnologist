@@ -82,7 +82,9 @@ home = ["HTML", "RSS", "Algolia"]
   twitter        = "https://twitter.com/TracyBannon"
  
 
-
+  [[params.friend_link]]
+  title = "Shannon Lietz"
+  href =  "https://shannonlietz.com/"
   [[params.friend_link]]
   title = "DJ Schleen"
   href =  "https://djschleen.com/"
