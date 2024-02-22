@@ -3,14 +3,14 @@ layout: page
 multilingual: false
 title:       "About Me"
 image:       "img/tagsnoheader.webp"
-tags:        ["Humans First", "Mentoring", "Real Technologist"]
+tags:        ["Humans First", "ArchAITecture", "Mentoring", "Real Technologist"]
 ---
 ## About Me
 ### Tracy “Trac” Bannon
 #### /trās/
 ##### Mentor, Speaker, Author, Real Technologist, Tech Evangelist, Change Agent, Human-Focused Software Architect, Ambassador, Engineer
 
-I am a real technologist, tech evangelist, and passionate architect. My focus is the human side of software architecture. With over 15 years of experience designing, delivering, and continuously improving to deliver value.   Some consider me an accomplished software architect, engineer, and DevSecOps advisor having worked across commercial and government clients.  I spend a ton of time with decoupled architectures and especially cloud native!   
+I am a real technologist, tech evangelist, and passionate architect. My focus is the human side of software architecture. With over 15 years of experience designing, delivering, and continuously improving to deliver value.   Some consider me an accomplished software architect, engineer, and DevSecOps advisor having worked across commercial and government clients.  I spend a ton of time improving modern software practices from applying AI to software engineering to building decoupled architectures to cloud native!   
 
 Helping organization on their journey to be digital first means helping them to adopt modern softare practices like *#DevSecOps*,  *#DataOps*, and *#ContinuousEverything*.  Community building and knowledge sharing it a TOP priority including mentoring, training, and building out "guidance as code" as a contributor and maintainer for [MinimumCD.org](https://minimumcd.org/minimumcd/).  
 
