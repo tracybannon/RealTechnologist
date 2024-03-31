@@ -4,7 +4,7 @@ subtitle:    "Leveraging AI to Improve Software Engineering"
 description: ""
 date:        2024-03-30
 author: Tracy Bannon
-image:       " "
+image:       "/img/Resources/QCON_blank.jpg"
 tags:        [ "Generative AI", "AI-Assisted Software Engineering", "ChatGPT"]
 categories:  ["materials"]
 excerpt: ""
