@@ -16,6 +16,8 @@ excerpt: ""
 
 Written by Latha Maripuri, Jasmine Henry, Aubrey Stearn, Carla Sun, Lonye Ford, Dr. Meg Layton, Tracy Bannon, Breanne Boland, Alison Gianotto, Carlota Sage, Lisa Hall, Rin Oliver, Joyous Huggins, Yvie Djieya, Angela Marafino, Coleen Shane, Rachel Harpley, Ashleigh Lee, and Amy Devers.
 
+Download for free here
+
 Reinventing Cybersecurity is the first cybersecurity book written entirely by women and non-binary experts and is a game-changing guidebook for cybersecurity practitioners at all career stages, from analyst to C-Suite. It is a collection of original stories on cybersecurity topics such as boardroom presentations, risk management, incident response, and navigating the C-suite; and insights on navigating imposter syndrome, systemic bias, and hiring.
 
 Reinventing Cybersecurity explores a central theme of redefinition with diverse expert perspectives on the industry’s technical and interpersonal aspects. Readers will discover how to reinvent their career through professional development regardless of age or circumstance, refocus approaches to common challenges, and reimagine ideas for the future.
