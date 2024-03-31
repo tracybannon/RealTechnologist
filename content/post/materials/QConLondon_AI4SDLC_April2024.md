@@ -2,7 +2,7 @@
 title:      "Applying AI to the SDLC: New Ideas and Gotchas"
 subtitle:    "Leveraging AI to Improve Software Engineering"
 description: ""
-date:        2024-03-30
+date:        2024-04-06
 author: Tracy Bannon
 image:       "/img/Resources/QCON_blank.jpg"
 tags:        [ "Generative AI", "AI-Assisted Software Engineering", "ChatGPT"]
