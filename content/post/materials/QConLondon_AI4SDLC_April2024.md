@@ -2,7 +2,7 @@
 title:      "Applying AI to the SDLC: New Ideas and Gotchas"
 subtitle:    "Leveraging AI to Improve Software Engineering"
 description: ""
-date:        2024-04-06
+date:        2024-03-31
 author: Tracy Bannon
 image:       "/img/Resources/QCON_blank.jpg"
 tags:        [ "Generative AI", "AI-Assisted Software Engineering", "ChatGPT"]
@@ -11,7 +11,10 @@ excerpt: ""
 URL: 
 ---
 ## Keynote Presentation Materials from QCon London April 2024 
-<a href="/downloads/PR_22-03817-8.pdf" download>Click here to download the presentation.</a>
+
+Check back after 10APril to be able to download the materials.
+
+<!-- <a href="/downloads/PR_22-03817-8.pdf" download> Click here to download the presentation.</a>  -->
 
 ![Title](/img/Resources/QCON_SPEAKER-1200x628-Trac.jpg)
 
