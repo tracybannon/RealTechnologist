@@ -12,7 +12,7 @@ URL:
 ---
 ## Keynote Presentation Materials from QCon London April 2024 
 
-Check back after 10APril to be able to download the materials.
+Check back after 10April to be able to download the materials.
 
 <!-- <a href="/downloads/PR_22-03817-8.pdf" download> Click here to download the presentation.</a>  -->
 
