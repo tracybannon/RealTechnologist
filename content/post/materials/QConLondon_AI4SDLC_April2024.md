@@ -12,8 +12,9 @@ URL:
 ---
 ## Keynote Presentation Materials from QCon London April 2024 
 
-<!-- <a href="/downloads/2024/R_23-04336-3_AI4SWEng_ QCONL_Final.pdf" > Click here to download the presentation.</a> -->
-Check back once the conference has begun for a download of the materials including full bibliography, AI infused continuum diagram, and AI provider questions. | <a href="https://qconlondon.com/speakers/tracybannon" > Online Speaker Profile</a> | <a href="https://qconlondon.com/keynote/apr2024/applying-ai-sdlc-new-ideas-and-gotchas-leveraging-ai-improve-software-engineering"> Keynote description and speaker background.</a> 
+<a href="/downloads/2024/R_23-04336-3_AI4SWEng_ QCONL_Final.pdf" > Click here to download the presentation  materials including full bibliography, AI infused continuum diagram, and AI provider questions.</a> 
+
+<a href="https://qconlondon.com/speakers/tracybannon" > Online Speaker Profile</a> | <a href="https://qconlondon.com/keynote/apr2024/applying-ai-sdlc-new-ideas-and-gotchas-leveraging-ai-improve-software-engineering"> Keynote description and speaker background.</a> 
 
 ![Title](/img/Resources/QCON_SPEAKER-1200x628-Trac.jpg)
 
