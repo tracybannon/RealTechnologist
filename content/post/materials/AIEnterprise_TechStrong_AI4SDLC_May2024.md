@@ -1,5 +1,5 @@
 ---
-title:      "Infussing AI into Software Engineering"
+title:      "Infusing AI into Software Engineering"
 subtitle:    "Challenges and Opportunities"
 description: "Generative AI has taken the world by storm, including the realm of software engineering. There's a rush to incorporate AI tools, from code generation to test analysis. This is groundbreaking technology that has limitations and challenges to navigate.  AI-assistance can enhance your delivery of value with the speed and quality your end-users demand.  The key is to use assurance-based techniques.  We'll also need to figure out how topivot from viewing AI as merely a tool today to envisioning a future filled with AI agents as team members. "
 date:        2024-05-16
