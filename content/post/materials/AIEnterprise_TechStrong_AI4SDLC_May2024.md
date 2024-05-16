@@ -1,8 +1,8 @@
 ---
-title:      "Infusting AI into Software Engineering"
+title:      "Infussing AI into Software Engineering"
 subtitle:    "Challenges and Opportunities"
 description: "Generative AI has taken the world by storm, including the realm of software engineering. There's a rush to incorporate AI tools, from code generation to test analysis. This is groundbreaking technology that has limitations and challenges to navigate.  AI-assistance can enhance your delivery of value with the speed and quality your end-users demand.  The key is to use assurance-based techniques.  We'll also need to figure out how topivot from viewing AI as merely a tool today to envisioning a future filled with AI agents as team members. "
-date:        2024-04-05
+date:        2024-05-16
 author: Tracy Bannon
 image:       "/img/Resources/QCON_blank.jpg"
 tags:        [ "Generative AI", "AI-Assisted Software Engineering", "ChatGPT", "GAI", "AIML", "Software Engineering", "SDLC", "Humans First"]
@@ -10,7 +10,7 @@ categories:  ["materials"]
 excerpt: ""
 URL: 
 ---
-##  Presentation Materials from The Artificially Intelligent Enterprise virtual Summit 2024 
+##  Presentation Materials from The Artificially Intelligent Enterprise Virtual Summit May 21, 2024 
 
 Check back on May 21st for the materials!
 
