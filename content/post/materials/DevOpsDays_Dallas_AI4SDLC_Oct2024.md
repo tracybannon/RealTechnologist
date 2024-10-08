@@ -12,16 +12,17 @@ URL:
 ---
 ##  Keynote Presentation at <a href="https://devopsdays.org/events/2024-dallas/welcome/" >DevOpsDays Dallas - October 9, 2023 </a>
 
+<!-- >
 Check back on October 9th for the materials including:
 + Presentation deck
 + Detailed Bibliography
 + Service Provider Question Sets
-
-<!-- >
-<a href="/downloads/2024/PR_23-04336-3_AI4SWEng_QCONL_Final.pdf" > Click here to download the presentation  materials including the AI infused continuum diagram.</a> 
-<a href="/downloads/2024/PR_23-04336-3_AI4SWEng_QCONL_Final.pdf" > Full Bibliography</a> 
-<a href="/downloads/2024/PR_23-04336-3_AI4SWEng_QCONL_Final.pdf" > AI Service Provider Question Sets</a> 
 -->
+
++ <a href="/downloads/2024/PR_23-04336-5_AI4SWEng_ DevOpsDays.pdf" >Presentation  materials including the AI infused continuum diagram</a> 
++ <a href="/downloads/2024/PR_23-04336-6_AI4AWE_Bibliography_DFW.pdf" >Detailed Bibliography</a> 
++ <a href="/downloads/2024/PR_23-04336-7_GAIProviderQuestions.pdf" > GAI Service Provider Question Sets</a> 
+
 
 <a href="https://devopsdays.org/events/2024-dallas/speakers/tracy-bannon/" > Online Speaker Profile</a> 
 
