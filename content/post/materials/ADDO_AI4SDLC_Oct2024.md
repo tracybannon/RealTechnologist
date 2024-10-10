@@ -12,18 +12,9 @@ URL:
 ---
 ##  Presentation at <a href="https://www.alldaydevops.com/" > ADDO - October 10, 2024 - 330 ET </a>
 
-Check back on October 9th for the materials including:
-+ Presentation deck
-+ Detailed Bibliography
-+ Service Provider Question Sets
-
-<!-- >
-<a href="/downloads/2024/PR_23-04336-3_AI4SWEng_QCONL_Final.pdf" > Click here to download the presentation  materials including the AI infused continuum diagram.</a> 
-<a href="/downloads/2024/PR_23-04336-3_AI4SWEng_QCONL_Final.pdf" > Full Bibliography</a> 
-<a href="/downloads/2024/PR_23-04336-3_AI4SWEng_QCONL_Final.pdf" > AI Service Provider Question Sets</a> 
--->
-
-<a href="https://event.alldaydevops.com/event/registration/websitePage:04030226-24b8-49ac-9c30-5671087b28ec?_gl=1*arhw45*_gcl_au*NjIwNjc5NTk5LjE3Mjc2MjM1NDA.&session=20d75a80-e2fe-42b6-847c-24f2a7811492" > Online Speaker Profile</a> 
++ <a href="/downloads/2024/PR23-04336-8_AI4SWEng_ ADDO.pdf" >Presentation  materials including the AI infused continuum diagram</a> 
++ <a href="/downloads/2024/PR23-04336-9_AI4SWE_ADDO_Bibliography.pdf" >Detailed Bibliography</a> 
++ <a href="/downloads/2024/PR_23-04336-7_GAIProviderQuestions.pdf" > GAI Service Provider Question Sets</a> 
 
 ![Title](/img/Resources/ADDO24-Session-AIML.png)
 
