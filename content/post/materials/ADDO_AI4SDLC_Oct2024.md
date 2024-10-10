@@ -2,7 +2,7 @@
 title:      "Unlocking Innovation with AI powered Software Engineering - #AI4SWE"
 subtitle:    "ADDO (All Day DevOps) Presentation"
 description: "The rapid development of GAI tools offers groundbreaking potential for software engineering, but teams face hurdles in adopting these technologies. This session is essential for software architect, engineers, developers, DevOps professionals, and security leaders aiming to enhance efficiency and quality in their software engineering processes using GAI.   Attendees will gain practical insights into the current state of GAI in software engineering, learn strategies to overcome adoption barriers, and understand future trends to integrate GAI effectively into their software engineering and DevSecOps practices.    Attendees also walk away with a call to action and materials to immediately leverage with the their teams and organizations. "
-date:        2024-09-29
+date:        2024-10-09
 author: Tracy Bannon
 image:       "/img/Resources/QCON_blank.jpg"
 tags:        [ "Generative AI", "AI-Assisted Software Engineering", "AI-Augmented", "ChatGPT", "GAI", "AIML", "Software Engineering", "SDLC", "Humans First", "Agentics", "Digital Platforms"]
