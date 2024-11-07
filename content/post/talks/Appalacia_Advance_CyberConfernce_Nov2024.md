@@ -16,6 +16,8 @@ URL:
 
 + <a href="/downloads/PR_23-04336-1_Secure_SWArch_in_GenAI_worldv2.pdf" >Training Presentation materials</a> 
 + <a href="/downloads/2024/PR_23-04336-7_GAIProviderQuestions.pdf" > GAI Service Provider Question Sets</a> 
++ <a href="https://www.computer.org/publications/tech-news/community-voices/secure-software-architecture-in-a-generative-ai-world" >Article: Cracking the Code: Secure Software Architecture in a Generative AI World</a> 
+
 
 ![Title](/img/Resources/AppalaciaPresentationNov2024.jpg)
 
