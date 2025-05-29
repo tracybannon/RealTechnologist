@@ -7,8 +7,9 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
 hasCJKLanguage = false
+[pagination]
+  pagerSize = 10
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
