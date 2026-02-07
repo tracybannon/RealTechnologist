@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tracybannon/RealTechnologist#readme",
   "dependencies": {
-    "hugo-lunr": "^0.0.4"
+    "hugo-lunr": "^0.0.4",
+    "openai": "^4.77.0"
   }
 }
